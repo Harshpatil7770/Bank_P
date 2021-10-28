@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Customer-Service"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Manager-Service"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\User-Service"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Transaction-Service-2"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Transaction-Service"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Eureka-Server"/>
+			<item value="C:\Users\patil_ha\eclipse-workspace\Bank_Poc\Config-Server"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

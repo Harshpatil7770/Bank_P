@@ -1,0 +1,5 @@
+spring.application.name=config_server
+spring.cloud.config.server.git.uri=https://github.com/somnathdevdhe1311/BankingPOC.git
+management.endpoints.web.exposure.include=*
+server.port=8888
+
